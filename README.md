@@ -24,7 +24,9 @@ for fun!
 
 ### 取证隐写
 
-#### python
+#### python   
+struct
+
 
 
 
