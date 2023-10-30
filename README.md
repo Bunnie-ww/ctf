@@ -13,7 +13,7 @@ for fun!
 [base64 base32 base16](https://www.qqxiuzi.cn/bianma/base64.htm)    
 (标志：base会出现=进行补位)    
 [xxencoding](http://web.chacuo.net/charsetxxencode)    
-(标志：会出现+ —号)     
+(标志：会出现+ -号)     
 [URL](http://web.chacuo.net/charseturlencode)    
 (出现大量百分号)    
 [unicode](https://c.runoob.com/front-end/3602/)   
