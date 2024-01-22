@@ -6,7 +6,7 @@ for fun!
 
 ### 编码分析
 
-#### 工具网站
+工具网站:    
 [进制转化](https://www.sojson.com/hexconvert.html)    
 [摩尔斯电码](http://www.zhongguosou.com/zonghe/moErSiCodeConverter.aspx)    
 [Ascll](https://www.asciim.cn/m/tools/convert_ascii_to_string.html)    
@@ -18,6 +18,14 @@ for fun!
 (出现大量百分号)    
 [unicode](https://c.runoob.com/front-end/3602/)   
 [条形码 二维码](https://online-barcode-reader.inliteresearch.com/)    
+
+
+### 隐写技术
+
+工具网站：
+[盲水印：下载WaterMark.exe](https://url61.ctfile.com/f/tempdir-VzdRZAE3WjpUZVEwVGMHZAItADkFPFxkXT5ZPQ5tADsKaQQ3Ai1bMlVgBGNSZgNoBjVTagI0CjoAbQ)  
+
+
 
 
 ***
