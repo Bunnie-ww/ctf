@@ -24,7 +24,7 @@ for fun!
 ### 隐写技术
 
 工具：   
-1. [盲水印：下载WaterMark.exe](https://url61.ctfile.com/f/tempdir-VzdRZAE3WjpUZVEwVGMHZAItADkFPFxkXT5ZPQ5tADsKaQQ3Ai1bMlVgBGNSZgNoBjVTagI0CjoAbQ)
+1. [盲水印：下载WaterMark.exe]([https://url61.ctfile.com/f/tempdir-VzdRZAE3WjpUZVEwVGMHZAItADkFPFxkXT5ZPQ5tADsKaQQ3Ai1bMlVgBGNSZgNoBjVTagI0CjoAbQ](https://www.mefcl.com/watermark/5821))
 2. 有两张图片的盲水印：用cmd运行脚本![在cmd中运行脚本](cmd.png)
 3. 查找和显示二进制文件中的文本字符串：kali linux的strings![kali linux](strings.png)  
 
