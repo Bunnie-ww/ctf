@@ -6,7 +6,7 @@ for fun!
 
 ### 编码分析
 
-工具网站:    
+工具:    
 [进制转化](https://www.sojson.com/hexconvert.html)    
 [摩尔斯电码](http://www.zhongguosou.com/zonghe/moErSiCodeConverter.aspx)    
 [Ascll](https://www.asciim.cn/m/tools/convert_ascii_to_string.html)    
@@ -23,7 +23,7 @@ for fun!
 
 ### 隐写技术
 
-工具网站：   
+工具：   
 1. [盲水印：下载WaterMark.exe](https://url61.ctfile.com/f/tempdir-VzdRZAE3WjpUZVEwVGMHZAItADkFPFxkXT5ZPQ5tADsKaQQ3Ai1bMlVgBGNSZgNoBjVTagI0CjoAbQ)
 2. 有两张图片的盲水印：用cmd运行脚本![在cmd中运行脚本](cmd.png)
 
@@ -35,8 +35,7 @@ for fun!
 
 ### 取证隐写
 
-#### python   
-struct
+
 
 
 
