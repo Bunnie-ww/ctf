@@ -24,7 +24,7 @@ for fun!
 
 工具网站：   
 1. [盲水印：下载WaterMark.exe](https://url61.ctfile.com/f/tempdir-VzdRZAE3WjpUZVEwVGMHZAItADkFPFxkXT5ZPQ5tADsKaQQ3Ai1bMlVgBGNSZgNoBjVTagI0CjoAbQ)
-2. 有两张图片的盲水印：![在cmd中运行脚本](cmd.jpg)
+2. 有两张图片的盲水印：![在cmd中运行脚本](cmd.png)
 
 
 
