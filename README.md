@@ -18,7 +18,8 @@ for fun!
 (出现大量百分号)    
 [unicode](https://c.runoob.com/front-end/3602/)   
 [零宽unicode](https://330k.github.io/misc_tools/unicode_steganography.html)   
-[条形码 二维码](https://online-barcode-reader.inliteresearch.com/)    
+[条形码](https://online-barcode-reader.inliteresearch.com/)    
+[二维码](https://merri.cx/qrazybox/)
 
 
 ### 隐写技术
