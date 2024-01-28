@@ -27,7 +27,25 @@ for fun!
 工具：   
 1. [盲水印：下载WaterMark.exe](https://url61.ctfile.com/f/tempdir-VzdRZAE3WjpUZVEwVGMHZAItADkFPFxkXT5ZPQ5tADsKaQQ3Ai1bMlVgBGNSZgNoBjVTagI0CjoAbQ](https://www.mefcl.com/watermark/5821))
 2. 有两张图片的盲水印：用cmd运行脚本![在cmd中运行脚本](cmd.png)
-3. 查找和显示二进制文件中的文本字符串：kali linux的strings![kali linux](strings.png)  
+3. 查找和显示二进制文件中的文本字符串：kali linux的strings![kali linux](strings.png)
+4. 反转颜色：用010打开发现png文件头文件尾都与标准格式不同，考虑运行反转颜色的脚本。
+`
+f1 = open("./misc5.5.png", "rb")
+f2 = open("./output.png", "wb")
+all_data = f1.read()
+lt = []
+
+for i in all_data:
+    if i == 0:
+        lt.append(i)//这里不能用0x100相减，否则会溢出
+    else:
+        lt.append(0x100 - i)
+
+f2.write(bytes(lt))
+f1.close()
+f2.close()
+
+`
 
 
 
