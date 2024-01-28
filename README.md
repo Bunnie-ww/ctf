@@ -29,7 +29,8 @@ for fun!
 2. 有两张图片的盲水印：用cmd运行脚本![在cmd中运行脚本](cmd.png)
 3. 查找和显示二进制文件中的文本字符串：kali linux的strings![kali linux](strings.png)
 4. 反转颜色：用010打开发现png文件头文件尾都与标准格式不同，考虑运行反转颜色的脚本。
-`
+```
+
 f1 = open("./misc5.5.png", "rb")
 f2 = open("./output.png", "wb")
 all_data = f1.read()
@@ -45,7 +46,8 @@ f2.write(bytes(lt))
 f1.close()
 f2.close()
 
-`
+
+```
 
 
 
