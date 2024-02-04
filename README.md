@@ -56,7 +56,7 @@ f2.close()
 ***
 
 ## web
-1. 路径发现————dirsearch
+1. 路径发现————dirsearch     
 简单使用：
 ```
 python3 dirsearch.py -u https://target
