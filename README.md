@@ -55,7 +55,22 @@ f2.close()
 
 ***
 
-### 取证隐写
+## web
+1. 路径发现————dirsearch
+简单使用：
+```
+python3 dirsearch.py -u https://target
+
+```
+```
+python3 dirsearch.py -e php,html,js -u https://target
+
+```
+```
+python3 dirsearch.py -e php,html,js -u https://target -w /path/to/wordlist
+
+```
+
 
 
 
